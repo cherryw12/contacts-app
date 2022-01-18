@@ -1,6 +1,7 @@
 # Contacts App for Resonate Solutions
 
-This project was made for the Resonate Solutions technical assignment. It is an React application that allows you to browse your contacts.
+This project was made for the Resonate Solutions technical assignment.\
+It is an React application that allows you to browse your contacts.
 
 ## Run the code
 
@@ -8,7 +9,7 @@ In the Contacts-App folder, run:
 
 ### `npm start` or `yarn start`
 
-This runs the app in the development mode.\
+This runs the app in development mode.\
 It should automatically open in your browser. If not, open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Features
