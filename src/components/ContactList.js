@@ -21,11 +21,11 @@ const ContactList = ({contacts}) => {
     });
 
     return <>
-    <div className="allContacts">{renderContactList}
-    
-    </div>
+        <div className="listContainer">
+            <div className="allContacts">{renderContactList}</div>
+        </div>
 
-    {modalVisible && <ContactModal data={user} visible={modalVisible} setModalVisible={setModalVisible} ></ContactModal>}
+        {modalVisible && <ContactModal data={user} visible={modalVisible} setModalVisible={setModalVisible} ></ContactModal>}
     
     </>;
 };

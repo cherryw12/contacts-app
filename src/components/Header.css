@@ -1,7 +1,8 @@
 .HeadContainer .HeadContent {
-    margin: auto;
-    border-bottom: 2px solid rgba(153, 60, 60, 0.63);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+	margin-left: 200px;
+	margin-right: 200px;
+	border-bottom: 2px solid rgba(153, 60, 60, 0.63);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
