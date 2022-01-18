@@ -13,6 +13,6 @@ It should automatically open in your browser. If not, open [http://localhost:300
 
 ## Features
 
-Upon opening, you will see contact cards of every user.\
-Click on a card to reveal more information about the user.\
-Click on the 'Send Email' button to construct an email with the select user as the recipient.
+* Upon opening, you will see contact cards of every user
+* Click on a card to reveal more information about the user
+* Click on the 'Send Email' button to construct an email with the select user as the recipien
