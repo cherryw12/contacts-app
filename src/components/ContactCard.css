@@ -1,0 +1,37 @@
+.person {
+  border: 2px solid rgb(212, 212, 212);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+  width: 190px;
+  align-items: center;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 100px;
+}
+
+.name {
+	font-size: 1.2rem;
+  font-weight: bold;
+ 	margin-top: 1rem;
+}
+
+.username {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 0.4rem;
+  color:rgba(0, 0, 0, 0.527)
+}
+
+.person:hover {
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+	border: 2px solid rgb(153, 60, 60);
+  cursor: pointer;
+}
