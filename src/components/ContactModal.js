@@ -20,7 +20,7 @@ const ContactModal = ({data, setModalVisible}) => {
                 <div className="fields">
                     <div className="modal field email">EMAIL</div>
                     <div className="modal data email">{email}</div>
-                    <a className="button" href={`mailto:${email}`}>Send Email</a>
+                    <a className="button" href={`mailto:${email}`}>Send Mail</a>
 
                     <div className="modal field phone">PHONE</div>
                     <div className="modal data phone">{phone}</div>
