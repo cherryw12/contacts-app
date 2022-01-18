@@ -1,8 +1,7 @@
 import './App.css';
 import Header from './Header';
 import ContactList from './ContactList';
-import { useEffect, useState } from 'react';
-import ContactModal from './ContactModal';
+import React, { useEffect, useState} from 'react';
 
 
 
