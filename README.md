@@ -1,4 +1,4 @@
-# Contacts App for Resonate Solutions
+# Contacts App
 
 This project was made for the Resonate Solutions technical assignment.\
 It is an React application that allows you to browse your contacts.
