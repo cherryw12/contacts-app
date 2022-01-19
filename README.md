@@ -1,11 +1,12 @@
 # Contacts App
 
+## About
 This project was made for the Resonate Solutions technical assignment.\
 It is an React application that allows you to browse your contacts.
 
 ## Run the code
 
-In the Contacts-App folder, run:
+Clone this github repo. After navigating to the Contacts-App folder, run:
 
 ### `npm start` or `yarn start`
 
