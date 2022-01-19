@@ -6,7 +6,7 @@ It is an React application that allows you to browse your contacts.
 
 ## Run the code
 
-Clone this github repo. After navigating to the Contacts-App folder, run:
+Clone this github repo. After navigating to the Contacts-App folder on your device, run:
 
 ### `npm start` or `yarn start`
 
